@@ -4,9 +4,9 @@
   "author": "networkbytes",
   "summary": "Configure the /etc/resolv.conf file",
   "license": "Apache 2.0",
-  "source": "https://github.com/NetworkBytes/resolver",
-  "project_page": "https://github.com/NetworkBytes/resolver",
-  "issues_url": "https://github.com/NetworkBytes/resolver/issues",
+  "source": "https://github.com/NetworkBytes/puppet-resolver",
+  "project_page": "https://github.com/NetworkBytes/puppet-resolver",
+  "issues_url": "https://github.com/NetworkBytes/puppet-resolver/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
